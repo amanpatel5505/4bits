@@ -1,0 +1,39 @@
+.body {
+  display: flex;
+  flex-direction: column;
+}
+.home {
+  margin: 5% 20% 20% 20%;
+  padding-bottom: 20%;
+  border: 2px transparent black;
+  border-radius: 70px;
+  background-color: rgba(128, 128, 128, 0.189);
+  outline: none;
+}
+.body h1 {
+  padding-left: 45%;
+  padding-top: 25px;
+}
+.content {
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.content img {
+  width: 75%;
+  height: 60vh;
+  border-radius: 20px;
+}
+
+.body h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.body p {
+   
+  padding-left: 15%;
+  color: grey;
+  font-weight: 400;
+}
