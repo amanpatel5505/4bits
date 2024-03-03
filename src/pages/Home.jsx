@@ -4,7 +4,7 @@ import Body from "../components/Body/body"
 const Home = () => {
   return (
     <div>
-      <Body/>
+      <Carousel/>
     </div>
   )
 }
